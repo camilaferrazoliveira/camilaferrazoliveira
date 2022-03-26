@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Camila!
-- 👀 I’m interested in classic books, python, philosophy and so on
-- 🌱 I’m Python
+- 👀 I’m interested in python, JavaScript, HTML and SQL
 - 💞️ I’m looking to collaborate on database projects
-- 📫 How to reach me camisamurai on tt
 
 <!---
 camilasamurai/camilasamurai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
